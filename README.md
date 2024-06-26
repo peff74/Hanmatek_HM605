@@ -1,8 +1,8 @@
-# DS18B20 non blocking Script
+# HM605 
 
-This Arduino script reads a DS18B20 temperature sensor only by using the OneWire library. 
-The script initiates temperature measurements, checks if the sensor is busy, and retrieves temperature data.
-Without blocking 
+The HM605 is a very practical and cheap power supply manufactured by etommens and sold through Hanmatek OEM.
+It is very easy to use and has a fairly low ripple voltage.
+And with a few simple steps, you can make it Modbus enabled.  
 
 
 
