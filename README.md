@@ -11,11 +11,11 @@ And with a few simple steps, you can make it Modbus enabled.
 ![AHT20_BMP280 logo](https://github.com/peff74/hanmatek_hm605/blob/main/HM605_case.jpg)
 ![AHT20_BMP280 logo](https://github.com/peff74/hanmatek_hm605/blob/main/HM605_port.jpg)
 
-- Remove housing
-- Remove display board
+- remove housing
+- remove display board
 - solder in a pin header
-- Reassemble everything
-- Check in Setup (long press on Voltage) that Modbus is active
+- reassemble everything
+- check in Setup (long press on Voltage) that Modbus is active
 
 
 ## How it works
@@ -34,5 +34,5 @@ And with a few simple steps, you can make it Modbus enabled.
 
 ## Example Output
 
-    XXX
+    coming soon
    
